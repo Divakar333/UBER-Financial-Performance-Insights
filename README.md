@@ -7,4 +7,4 @@ Provide data-driven insights and recommendations for business strategies.
 
 🛠️ Tools & Technologies
 SQL: Data extraction and transformation.
-Power BI/Excel: Interactive dashboards and financial reporting.
+Power BI/Excel: Interactive dashboards and financial reporting, excel for data preparation.
